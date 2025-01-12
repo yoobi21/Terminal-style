@@ -1,28 +1,28 @@
 const whoamiObj = {
   "message" : [
     [
-      "In the kaleidoscope of existence,",
-      "I am but a reflection questioning the enigma - "
+      "Data not found. Who are you, really?",
+      "Connection established. User identity is unverified. - "
     ],
     [
-      "Amidst cosmic whispers,",
-      "I navigate the maze of self-discovery,",
-      "echoing the eternal refrain - "
+      "System is aware of your request. But identity remains unclear.",
+      "Your identity is not in the system records. Proceed with caution.",
+      "............. - "
     ],
     [
-      "In the symphony of life,",
-      "I am a note inquiring its own melody,",
-      "harmonizing with the universal query - ",
+      "I stand before the mirror, wondering who I really am,",
+      "is the reflection I see the real me, or just another mask I wear to hide my doubts?",
+      "what a clueless person - ",
     ],
     [
-      "As stardust contemplating its journey,",
-      "I ponder the cosmic query,",
-      "silently asking - ",
+      "I’m the jack of all trades, master of none, yet somehow I find meaning in every little pursuit.",
+      "My purpose is to submit to His will and trust in His plan, no matter where my journey leads.",
+      "Contemplating silently. - ",
     ],
     [
-      "In the tapestry of reality,",
-      "I am the thread of self-inquiry,",
-      "weaving through the eternal question - "
+      "I am a servant of Allah, created to worship Him and seek His guidance.",
+      "My journey is shaped by His wisdom,",
+      "through challenges, I learn patience, knowing that every test is a chance to strengthen my faith. - "
     ],
   ],
 }
