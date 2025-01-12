@@ -24,6 +24,10 @@ const whoamiObj = {
       "My journey is shaped by His wisdom,",
       "through challenges, I learn patience, knowing that every test is a chance to strengthen my faith. - "
     ],
+    [
+      
+      "Who you seek - "
+    ],
   ],
 }
 
