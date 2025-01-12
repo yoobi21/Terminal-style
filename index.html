@@ -1,20 +1,18 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="UTF-8" />
-  <link rel="stylesheet" href="src/css/css-reset.css">
-  <link rel="stylesheet" href="src/css/style.css">
-  <link rel="icon" type="image/x-png" href="/res/logo.png" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1" />
-  <script src="https://kit.fontawesome.com/d5effce557.js" crossorigin="anonymous"></script>
-  <title>WebShell</title>
+    <meta charset="UTF-8">
+    <link rel="icon" href="./img/logo.ico" type="image/x-icon">
+    <link rel="stylesheet" href="src/css/reset.css">
+    <link rel="stylesheet" href="src/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/d5effce557.js" crossorigin="anonymous"></script>
+    <title>Terminal</title>
 </head>
-
 <body>
-  <main id="main">
+ <main id="main">
     <div id="bars">
-      <div id="bar-1">WebShell.x64_x86</div>
+        <div id="bar-1">bash console</div>
       <div id="bar-2"></div>
       <div id="bar-3"></div>
       <div id="bar-4"></div>
@@ -22,11 +20,10 @@
     </div>
     <br>
     <div id="terminal">
-      <div>
-        <span id="prompt"><span id="pre-user"></span>@<span id="pre-host"></span>:$ ~ </span>
-      </div>
-      <!-- command output will be inserted before #write-lines-->
-      <a id="write-lines"></a>
+        <div>
+            <span id="prompt"><span id="pre-user"></span>@<span id="pre-host"></span>:$ ~</span>
+        </div>
+        <a id="write-lines"></a>
     </div>
     <div id="input-line">
       <div>
@@ -43,8 +40,10 @@
     </div>
   </main>
 </body>
-
-<script type="module" src="./src/styles.ts"></script>
+    </div>
+ </main>    
+</body>
+<script type="module" src="./src/style.ts"></script>
 <script type="module" src="./src/main.ts"></script>
 
 </html>

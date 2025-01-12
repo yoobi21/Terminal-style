@@ -191,7 +191,7 @@ function commandHandler(input : string) {
       break;
     case 'banner':
       if(bareMode) {
-        writeLines(["WebShell v1.0.0", "<br>"])
+        writeLines(["++++404++++++[>+>+++>+++++++>404++++++++++<<<<-]>>>>--.++++++++++++++++.---404.<------------------.----.++++.>----.------.+++++++++.<<<.", "<br>"])
         break;
       }
       writeLines(BANNER);

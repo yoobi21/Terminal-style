@@ -3,10 +3,10 @@
 :root {
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 200;
-  --bg: #0C0623;
-  --border: #FFADE2;
-  --text: #F8DDE5;
-  --prompt-default: #A5A7A7;
+  --bg: #01181f;
+  --border: #ffffff;
+  --text: #ffffff;
+  --prompt-default: #644242;
   --prompt-1: #FE6BC9;
   --prompt-2: #70FDFF;
 }

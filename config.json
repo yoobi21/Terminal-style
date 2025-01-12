@@ -1,56 +1,76 @@
 {
-  "ascii": [
-    "███████╗██╗  ██╗███████╗██╗     ██╗",
-    "██╔════╝██║  ██║██╔════╝██║     ██║",
-    "███████╗███████║█████╗  ██║     ██║",
-    "╚════██║██╔══██║██╔══╝  ██║     ██║",
-    "███████║██║  ██║███████╗███████╗███████╗",
-    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
-  ],
-  "title": "WebShell",
-  "username": "visitor",
-  "hostname": "webshell",
-  "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
-  "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
-  },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
-  "projects": [
-    [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+    "ascii": [     
+"                                   ░░░░░░░                            ",
+"                          ░░░░░  ░░░░░░░░░░░░░                        ",
+"                       ░░░░░░░░░░░░░░░░░░░░░░░░░░                    ",
+"                      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░                   ",
+"                      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░                  ",
+"                     ░░░░░░░░░         ░░░░░░░░░░░░                  ",
+"                     ░░░░░░░░░░   ░░░░░   ░░░░░░░░░                  ",
+"                     ░░░░░░░░░░   ░░░░░   ░░░░░░░░                   ",
+"                     ░░░░░░░░░░   ░     ░░░░░░░░░                    ",
+"                       ░░░░░░░░   ░░   ░░░░░░░░░░                    ",
+"                        ░░░░░░░   ░░░░   ░░░░░░░                     ",
+"                      ░░░░░░░░      ░░░     ░░░░░░                   ",
+"                      ░░░░░░░░░░░░░░░░░░░░░░░░░░░                   ",
+"                       ░░░░░░░░░░░░░░░░░░░░░░░░░                     ",
+"                         ░░░░░░░░░░░░░░░░░░░░░░                      ",
+"                           ░░░░░░░░░░░░░░░░░░░░                      ",
+"                           ░░░░░░░░░░░░░░░░░░░                       ",
+"                             ░░░░░░░░░░░░░░░                         ",
+"                             ░░░░░░░░░░░░░░                          ",
+"                            ░░░░░░░░░░░░░░░░                         "
+
+
+
+       
+
+        
     ],
-    [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
-    ]
-  ],
-  "colors": {
-    "background": "#0C0623",
-    "foreground": "#F8DDE5",
-    "banner": "#FF9951",
-    "border": {
-      "visible": true,
-      "color": "#FFADE2"
+    "title": "Bash",
+    "username": "anon",
+    "hostname": "company",
+    "password": "allyoobi",
+    "repoLink": "https://github.com/yoobi21/webshell",
+    "social": {
+      "email": "hannyoobi@gmail.com",
+      "github": "yoobi21",
+      "linkedin": "raihan-al-ayyubi/"
     },
-    "prompt": {
-      "default": "#A5A7A7",
-      "user": "#FE6BC9",
-      "host": "#70FDFF",
-      "input": "#FF7685"
-    },
-    "link": {
-      "text": "#B6AAEE",
-      "highlightColor": "#FFADE2",
-      "highlightText": "#0C0623"
-    },
-    "commands": {
-      "textColor": "#FD9BDB"
+    "aboutGreeting": "Hi Anonymous. Welcome to the Company. &copy;nasan016 <a href=https://github.com/nasan016/webshell",
+    "projects": [
+      [
+        "Moodverse",
+        "The Guidance to your feelings",
+        "https://yoobi21.github.io/Lifesaver/"
+      ],
+      [
+        "Portfolio",
+        "A room",
+        "https://allyoobi.vercel.app/"
+      ]
+    ],
+    "colors": {
+      "background": "#0d101a",
+      "foreground": "#F8DDE5",
+      "banner": "#FFF",
+      "border": {
+        "visible": false,
+        "color": "#FFF"
+      },
+      "prompt": {
+        "default": "#A5A7A7",
+        "user": "#6BFF95",
+        "host": "#ff8e35",
+        "input": "#A5A7A7"
+      },
+      "link": {
+        "text": "#B6AAEE",
+        "highlightColor": "#49726e",
+        "highlightText": "#FFF377"
+      },
+      "commands": {
+        "textColor": "#FFF377"
+      }
     }
   }
-}
