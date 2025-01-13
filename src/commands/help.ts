@@ -2,7 +2,7 @@ const helpObj = {
   "commands": [
     [
     "'about'",
-    "Who made this website?",
+    "Who's cooking?",
     ],
     [
       "'projects'",
@@ -10,21 +10,21 @@ const helpObj = {
     ],
     [
       "'whoami'",
-      "A perplexing question."
+      "find out the true self"
     ],
     ["'sudo'",
       "???"
     ],
     [
       "'repo'",
-      "View the Github Repository."
+      "view repository for the source code"
     ],
     ["'banner'",
-      "Display the banner."
+      "generate the ascii art"
     ],
     [
       "'clear'",
-      "Clear the terminal."
+      "Clear the text."
     ]
   ],
 }
